@@ -1,0 +1,30 @@
+Pinax是什么？它不是一款软件，而是一堆Django Apps的集合。
+
+现在只要拥有Pinax，一切都不用麻烦了～Pinax这个项目就是将优秀的Django Apps收集起来，让开发者方便地享用。因为都经过测试，所以不必再自己辛苦地找、测试，然后再用上。
+
+https://github.com/pinax
+Pinax包含了近43个Apps，有Tagging、Blog、Profiles、OpenID、Messages、Gravatar……大多数常用的Web技术和应用都有提供！
+
+pinax具有以下特点：
+
+支持openid；
+支持email验证；
+密码管理；
+站点声明；
+用户短消息；
+朋友邀请，包括站内邀请和站外邀请；
+一个基本的twitter应用集成；
+群组功能，tribes
+project协同工作；
+讨论；
+wiki功能；
+blog功能；
+书签功能；
+tag功能；
+contact import；
+投票系统；
+图片管理。
+
+用这些模块，基本上可以建立一个强大的系统了。
+
+想像一下，几乎不用写多少代码，就能让未来的LDCN支持OpenID来登录，让它支持用户之间发“消息”！
